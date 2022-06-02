@@ -1,1 +1,1 @@
-# goit-hw-o1
+# goit-hw-01 - home work for HTML Part 1
